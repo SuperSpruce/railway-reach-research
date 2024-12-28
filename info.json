@@ -1,0 +1,14 @@
+{
+  "name": "railway-reach-research",
+  "version": "0.1",
+  "title": "Railway Reach Research: Balanced Adjustable Supports",
+  "author": "SuperSpruce",
+  "source": "https://github.com/SuperSpruce/railway-reach-research",
+  "homepage": "https://mods.factorio.com/mod/railway-reach-research",
+  "dependencies": [
+    "elevated-rails > 2.0.0",
+    "space-age > 2.0.0"
+  ],
+  "description": "Railway Reach Research: A new infinite technology that allows you to increase the distance between supports for elevated rails, enhancing your railway design flexibility. Uses Metallurgic and Electromagnetic Sciences.",
+  "factorio_version": "2.0"
+}
